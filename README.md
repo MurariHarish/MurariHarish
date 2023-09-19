@@ -11,7 +11,7 @@
 * 🔬 Proficient Skills: Python, SQL, Tableau, Power BI, Snowflake, AWS
 * ⚡ Career Goals: Seeking Fulltime Data Analyst/Data Scientist Spring 2024 
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=pavit14&label=Profile%20views&color=0e75b6&style=flat" alt="pavit14" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=MurariHarish&label=Profile%20views&color=0e75b6&style=flat" alt="MurariHarish" /></p>
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-murari/) 
